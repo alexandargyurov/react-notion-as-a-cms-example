@@ -1,6 +1,6 @@
 # Read the blog!
 
-https://alexandar.me/blog/react-notion-as-a-cms
+https://alexandar.me/blog/using-notion-as-a-cms-with-react
 
 # Introduction
 
